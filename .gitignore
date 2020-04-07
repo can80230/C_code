@@ -28,3 +28,4 @@ hs_err_pid*
 *.code-workspace
 
 # 撤销测试
+/bin/
